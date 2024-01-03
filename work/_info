@@ -1,0 +1,283 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/CISL/Examen CISL/Pb2
+vadder
+Z0 !s110 1704301567
+!i10b 1
+!s100 <dZzT8;PJ4Lf3l]^TMoI61
+IKPQZP0hL^oT:zbWUIKe9X0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog
+Z3 w1704301563
+Z4 8C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/adder.v
+Z5 FC:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/adder.v
+L0 2
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1704301567.000000
+Z8 !s107 C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/adder.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/adder.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vclock_divider
+R0
+!i10b 1
+!s100 bCDN:bBn7J;[APk>eja4;0
+IoejS@UKSA?^[k_KVlo_h10
+R1
+R2
+Z12 w1704289507
+Z13 8C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/clock_divider.v
+Z14 FC:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/clock_divider.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/clock_divider.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/clock_divider.v|
+!i113 1
+R10
+R11
+vfood_counter
+Z17 !s110 1704301568
+!i10b 1
+!s100 <^6DTL<aC;R49R@bcGOh[0
+In]5QbziG1D9bDkK:S0_4B0
+R1
+R2
+Z18 w1704217337
+Z19 8C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/food_counter.v
+Z20 FC:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/food_counter.v
+L0 2
+R6
+r1
+!s85 0
+31
+Z21 !s108 1704301568.000000
+Z22 !s107 C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/food_counter.v|
+Z23 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/food_counter.v|
+!i113 1
+R10
+R11
+vinterval_counter
+R17
+!i10b 1
+!s100 S]4e0cl3]_eb6b>>Pd=IG3
+IkRSc^oZZ[[8]2Z`FGj;M^2
+R1
+R2
+Z24 w1704216106
+Z25 8C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/interval_counter.v
+Z26 FC:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/interval_counter.v
+L0 2
+R6
+r1
+!s85 0
+31
+R7
+Z27 !s107 C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/interval_counter.v|
+Z28 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/interval_counter.v|
+!i113 1
+R10
+R11
+vmux2to1
+R17
+!i10b 1
+!s100 :>j5AenkJl?PmgFPX:_db1
+IkTze=?EeFIE:iTl`=FEdR2
+R1
+R2
+w1704295703
+8C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/mux2to1.v
+FC:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/mux2to1.v
+L0 3
+R6
+r1
+!s85 0
+31
+R21
+!s107 C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/mux2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/mux2to1.v|
+!i113 1
+R10
+R11
+voption_fsm
+R0
+!i10b 1
+!s100 h63^fVO0?zNlYVjZiFJ8e3
+ITSJ_2D2_6;^@Hm8_:CJGQ2
+R1
+R2
+Z29 w1704192182
+Z30 8C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/option_fsm.v
+Z31 FC:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/option_fsm.v
+L0 8
+R6
+r1
+!s85 0
+31
+R7
+Z32 !s107 C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/option_fsm.v|
+Z33 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/option_fsm.v|
+!i113 1
+R10
+R11
+vpet_feeder
+R17
+!i10b 1
+!s100 _HeCU>CPDdWDFo>[N0HlY0
+Ikz?4WBa5>l3Fcz<mzRU]92
+R1
+R2
+Z34 w1704296012
+Z35 8C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/pf0.v
+Z36 FC:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/pf0.v
+L0 3
+R6
+r1
+!s85 0
+31
+R21
+Z37 !s107 C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/pf0.v|
+Z38 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Adrian/OneDrive - Universitatea Politehnica Timisoara/Desktop/Anul 3/Semestrul I/FIC/Proiect/Design Verilog/pf0.v|
+!i113 1
+R10
+R11
+vtb_adder
+R0
+!i10b 1
+!s100 j`X_<57LZP?PQPRW7Ad^M0
+Ih[<:5o0:VXoNTDR@6J0hX2
+R1
+R2
+R3
+R4
+R5
+L0 36
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_clock_divider
+R0
+!i10b 1
+!s100 FX_WiGZG6:j`Q51TVgG4Z1
+IV6=d3OJS<YB<nL@ZC4Nf02
+R1
+R2
+R12
+R13
+R14
+Z39 L0 40
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+vtb_food_counter
+R17
+!i10b 1
+!s100 NoCKlFhaRdU1W>Eo5dzQL1
+IEznhQ<WQIlm^9nVkkQH<N2
+R1
+R2
+R18
+R19
+R20
+R39
+R6
+r1
+!s85 0
+31
+R21
+R22
+R23
+!i113 1
+R10
+R11
+vtb_interval_counter
+R17
+!i10b 1
+!s100 AP7>o4fg?M6O2kS;2IYW=0
+IYh?Dj8@LbEZj=8ffY>OOf1
+R1
+R2
+R24
+R25
+R26
+L0 41
+R6
+r1
+!s85 0
+31
+R7
+R27
+R28
+!i113 1
+R10
+R11
+vtb_option_fsm
+R0
+!i10b 1
+!s100 JS:F9J^hd9J>SB;ZU<9;X3
+IC9L88L9a<MTI[k;XN>40^2
+R1
+R2
+R29
+R30
+R31
+L0 91
+R6
+r1
+!s85 0
+31
+R7
+R32
+R33
+!i113 1
+R10
+R11
+vtb_pet_feeder
+R17
+!i10b 1
+!s100 :K7[lh9KjU3ZmgM9557GS1
+Ik1ES8>nFlL9CFg8E<c^oM0
+R1
+R2
+R34
+R35
+R36
+R39
+R6
+r1
+!s85 0
+31
+R21
+R37
+R38
+!i113 1
+R10
+R11
