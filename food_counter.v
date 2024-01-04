@@ -18,6 +18,7 @@ module food_counter(input clock,input reset,input enable, input count_reset,  ou
 
     always @* begin
         count_next = count_reg;
+        switch_f_c_next = switch_f_c_reg;
         if(enable && !count_reset) begin
             if(count_reg <= (food_time - 1) ) begin
                 switch_f_c_next = 1'b1;
@@ -25,6 +26,7 @@ module food_counter(input clock,input reset,input enable, input count_reset,  ou
             // aici se reseteaza contorul
             if(count_reg == (food_time)) begin
                 switch_f_c_next = 1'b0;
+                // problema apare aici din cauza lui count_reg care nu se reseteaza (nici nu pot sa-l resetez eu ca numara nonstop)
             end else begin
                 count_next = count_reg+1'b1;
             end

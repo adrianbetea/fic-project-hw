@@ -79,7 +79,15 @@ initial begin
     $display("Sum: %d, Prev_sum: %d", sum, prev_sum);
     digit_enable = 1'b0;
     #30
-
+    
+    keyboard_digit = 4'd5;
+    #30;
+    $display("Sum: %d, Prev_sum: %d", sum, prev_sum);
+    digit_enable = 1'b1;
+    #4;
+    $display("Sum: %d, Prev_sum: %d", sum, prev_sum);
+    digit_enable = 1'b0;
+    #30
     $finish();
   end
 
