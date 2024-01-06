@@ -3,7 +3,7 @@ module clock_divider#(parameter width = 26,
                 parameter MAX = 50000000)
   			   (input clock , input reset, output new_clock);
   
-  localparam HALD_COUNT = (MAX-1)/2;
+  localparam HALF_COUNT = (MAX-1)/2;
   reg [width-1:0] count_reg, count_next;
   reg drive_reg, drive_next;
   
@@ -27,7 +27,7 @@ module clock_divider#(parameter width = 26,
         count_next = 'b0;
       end else begin
         count_next = count_reg+1'b1;
-        if(count_reg < HALD_COUNT) begin
+        if(count_reg < HALF_COUNT) begin
             drive_next = 1'b0;
         end else begin
             drive_next = 1'b1;
